@@ -5,7 +5,11 @@ This file uses change log convention from [Keep a CHANGELOG](http://keepachangel
 
 ## [Unreleased][unreleased]
 
-## 1.0.0 - 2015-06-08
+## 1.0.1 - 2015-09-07
+### Fixed
+- Permissions
+
+## 1.0.0 - 2015-09-07
 ### Added
 - Initial version
 - Readme file with documentation [README.md]
@@ -17,4 +21,6 @@ This file uses change log convention from [Keep a CHANGELOG](http://keepachangel
 [LICENCE.md]: LICENCE.md
 [README.md]: README.md
 
-[unreleased]: https://github.com/markchalloner/git-branch-archive/compare/1.0.0...HEAD
+[unreleased]: https://github.com/markchalloner/git-branch-archive/compare/1.0.1...HEAD
+[1.0.1]: https://github.com/markchalloner/git-branch-archive/compare/1.0.0...1.0.1
+
