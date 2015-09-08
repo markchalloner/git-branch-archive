@@ -26,4 +26,5 @@ git checkout master && \
 git tag ${tag} ${branch} && \
 git push origin ${tag} && \
 git branch -D ${branch} && \
-git push origin :${branch}
+git push origin :${branch} && \
+git branch -r -d origin/${branch}
